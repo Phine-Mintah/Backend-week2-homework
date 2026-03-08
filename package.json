@@ -1,0 +1,17 @@
+{
+  "name": "express-js",
+  "version": "1.0.0",
+  "description": "creating routes",
+  "main": "index.js",
+  "author": "Phinehas",
+  "license": "MIT",
+  "scripts": {
+    "start": "node Express.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
