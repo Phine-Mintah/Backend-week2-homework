@@ -5,6 +5,8 @@
   "main": "index.js",
   "author": "Phinehas",
   "license": "MIT",
+  "type": "module",
+  
   "scripts": {
     "start": "node Express.js"
   },
@@ -14,4 +16,5 @@
   "dependencies": {
     "express": "^5.2.1"
   }
+  
 }
